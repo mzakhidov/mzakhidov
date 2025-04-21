@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Miraziz Zakhidov
-- 👀 I’m interested in learning more about generative AI. 
+- 👀 I’m interested in learning more about generative AI, LLMs, agentic AIs, etc.  
 - 🌱 I’m currently enhancing my skill-set on data analytics, AI, AI product management. 
 - 💞️ I’m looking to collaborate on interesting projects. 
 - 📫 How to reach me @mzakhidov
