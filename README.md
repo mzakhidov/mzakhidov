@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Miraziz Zakhidov
-- 👀 I’m obsessed with learning about gen AI, LLMs, agentic AIs, etc.  
+- 👀 I’m obsessed about about capital markets, fintech, technology, gen AI, LLMs, agentic AIs, etc.  
 - 🌱 I’m currently enhancing my skill-set on AI, LLMs, and AI product development & management. 
 - 💞️ I’m looking to collaborate on interesting projects. 
 - 📫 How to reach me @mzakhidov
