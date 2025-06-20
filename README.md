@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects. 
 - 📫 How to reach me @mzakhidov
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a huge UFC fan! 
+- ⚡ Fun fact: I'm a huge fan of stock trading & investing! 
 
 <!---
 mzakhidov/mzakhidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
